@@ -1,1 +1,3 @@
-# Generative_AI_Research_s4905124
+# AI_Research
+
+put some stuff - all data for the project
